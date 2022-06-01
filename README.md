@@ -1,5 +1,7 @@
-## DIO - Digital Innovation One
-Repositório criado para os desafios de projeto, atividades, materiais e anotações dos cursos da dio.
+## DIO - Bootcamp Santander - Full Stack
+Repositório criado para os desafios de projeto, atividades, materiais e anotações. 
+
+Git - github - html - css - js - angular - vs code - Java - Spring boot
 
 ### Links úteis:
 
